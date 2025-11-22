@@ -1,39 +1,39 @@
 {
-"cache_time"："cache_time"，"cache_time"：7200,
-"api_site"："api_site""api_site"：{
-"1080zyku"："1080zyku""1080zyku"：{
-"api"："https://api.1080zyku.com/inc/api_mac10.php"，"api"："api",
-"名称""TV-1080资源"，"姓名"："TV-1080资源"，
-"详细信息"："https://api.1080zyku.com"，"详细信息"："详细信息",
-"is_adult"：假的"is_adult”：假的
+  "cache_time": 7200,
+  "api_site": {
+    "1080zyku": {
+      "api": "https://api.1080zyku.com/inc/api_mac10.php",
+      "name": "TV-1080资源",
+      "detail": "https://api.1080zyku.com",
+      "is_adult": false
     },
-“"155api"API“”：{"155api": {
-"api"："https://155api.com/api.php/provide/vod"，"api"："api",
-"名称"："AV-155资源"，"姓名"："AV-155资源"，
-"详细信息"："https://155api.com"，"详细信息"："详细信息",
-"is_adult"：正确"is_adult”：正确
+    "155api": {
+      "api": "https://155api.com/api.php/provide/vod",
+      "name": "AV-155资源",
+      "detail": "https://155api.com",
+      "is_adult": true
     },
-“"360zy"ZY"：{"zy"：360
-"api"："https://360zy.com/api.php/provide/vod"，"api"："https://360zy.com/api.php/provide/vod"，
-"名称"："TV-360资源"，"姓名"：TV"名称""资源"，
-"详细信息"："https://360zy.com"，"详细信息"："https://360zy.com"，
-"is_adult"：假的"is_adult"：
+    "360zy": {
+      "api": "https://360zy.com/api.php/provide/vod",
+      "name": "TV-360资源",
+      "detail": "https://360zy.com",
+      "is_adult": false
     },
-"ckzy"："ckzy""ckzy"：{
-"api"："https://ckzy.me/api.php/provide/vod"，"api"："api"，
-"名称""TV-CK资源"，"姓名"：TV-CK"资源"："TV-CK资源"，"姓名"：TV-CK
-"详细信息"："https://ckzy.me"，"详细信息"："详细信息",
-"is_adult"：假的"is_adult”：假的
+    "ckzy": {
+      "api": "https://ckzy.me/api.php/provide/vod",
+      "name": "TV-CK资源",
+      "detail": "https://ckzy.me",
+      "is_adult": false
     },
-"ukuapi"："ukuapi"
-"api"："https://api.ukuapi.com/api.php/provide/vod"，"api"："https://api.ukuapi.com/api.php/provide/vod"："https://api.ukuapi.com/api.php/provide/vod"，"api"：
-"名称"："TV-U酷资源"，"姓名"：TV-U"酷资源""TV-U"酷资源"，"姓名"：TV-U"酷资源"，
-"详细信息"："https://api.ukuapi.com"，"详细信息"："https://api.ukuapi.com"，"https://api.ukuapi.com"，
-"is_adult"：假的"is_adult”：假的
+    "ukuapi": {
+      "api": "https://api.ukuapi.com/api.php/provide/vod",
+      "name": "TV-U酷资源",
+      "detail": "https://api.ukuapi.com",
+      "is_adult": false
     },
-"ukuapi88"："ukuapi88""ukuapi88"：{
-"api"："https://api.ukuapi88.com/api.php/provide/vod"，"api"："api"，
-"名称"："TV-U酷资源88"，"名称"："TV-U酷资源88"，
+    "ukuapi88": {
+      "api": "https://api.ukuapi88.com/api.php/provide/vod",
+      "name": "TV-U酷资源88",
       "detail": "https://api.ukuapi88.com",
       "is_adult": false
     },
